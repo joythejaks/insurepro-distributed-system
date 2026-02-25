@@ -1,0 +1,16 @@
+# Go
+bin/
+vendor/
+
+# Env
+.env
+
+# Docker
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
